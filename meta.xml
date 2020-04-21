@@ -1,0 +1,44 @@
+<meta>
+	<info name="Daily Prize" author="ertrldtcu" type="script" version="1.0"/>
+
+	<script src="settings.lua" type="server" />
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server" />
+
+	<file src="earn.png" />
+	<file src="circle.png" />
+	
+	<file src="coin/1.png" />
+	<file src="coin/2.png" />
+	<file src="coin/3.png" />
+	<file src="coin/4.png" />
+	<file src="coin/5.png" />
+	<file src="coin/6.png" />
+	<file src="coin/7.png" />
+	<file src="coin/8.png" />
+	<file src="coin/9.png" />
+	<file src="coin/10.png" />
+	<file src="coin/11.png" />
+	<file src="coin/12.png" />
+	<file src="coin/13.png" />
+	<file src="coin/14.png" />
+	<file src="coin/15.png" />
+	<file src="coin/16.png" />
+	
+	<file src="exp/1.png" />
+	<file src="exp/2.png" />
+	<file src="exp/3.png" />
+	<file src="exp/4.png" />
+	<file src="exp/5.png" />
+	<file src="exp/6.png" />
+	<file src="exp/7.png" />
+	<file src="exp/8.png" />
+	<file src="exp/9.png" />
+	<file src="exp/10.png" />
+	<file src="exp/11.png" />
+	<file src="exp/12.png" />
+	<file src="exp/13.png" />
+	<file src="exp/14.png" />
+	<file src="exp/15.png" />
+	<file src="exp/16.png" />
+</meta>
